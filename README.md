@@ -1,3 +1,8 @@
+
+CSDN:http://blog.csdn.net/l773575310/article/details/72588056
+
+
+
 #Unity JSON文件的写入（序列化）与读取（反序列化）
 
 >参考查阅官方教程：[Dictionary, JSON and Streaming Assets](https://unity3d.com/cn/learn/tutorials/topics/scripting/dictionary-json-and-streaming-assets?playlist=17117)
